@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10B06444-8E03-4AD4-A5A4-20FDC00BDA1F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7E093DD-F4C3-4239-9D76-C06A35049672"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StripePayment/CheckoutViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B312A1CC-D2A3-4B4D-9C3C-63D11E37521D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StripePayment/CheckoutViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B312A1CC-D2A3-4B4D-9C3C-63D11E37521D - a99bc1139d471af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StripePayment.CheckoutViewController.didTapCheckoutButton() -&gt; ()"
+                  moduleName = "StripePayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/magedomar/Desktop/Maged/StripePayment/StripePayment/CheckoutViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B312A1CC-D2A3-4B4D-9C3C-63D11E37521D - c4521a27184d9916"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Stripe.PaymentSheetResult) -&gt; () in StripePayment.CheckoutViewController.didTapCheckoutButton() -&gt; ()"
+                  moduleName = "StripePayment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/magedomar/Desktop/Maged/StripePayment/StripePayment/CheckoutViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
